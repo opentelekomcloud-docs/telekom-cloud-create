@@ -1,3 +1,8 @@
-====================================================
-Welcome to the documentation of telekom-cloud-create
-====================================================
+Telekom Cloud Create
+====================
+
+.. directive_wrapper::
+   :class: container-sbv
+
+   .. service_card::
+      :service_type: tcc
